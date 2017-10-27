@@ -1,7 +1,7 @@
 Example
 =======
 
-This is a example github Python project. It is a template to allow easy creation of a new project - just copy it and amend as necessary.
+This is an example github Python project. It is a template to allow easy creation of a new project - just copy it and amend as necessary.
 
 
 Installation
